@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Deveopment
 - 💞️ I’m looking to collaborate on Full stack & Devops Projects
 - 📫 How to reach me : rajbvimit@gmail.com
-- 😄 Pronouns: a new age Programmer building modern age products that serve for a definite need
+- 😄 Pronouns: A new age Programmer building modern age products that serve for a definite need
 - ⚡ Fun fact: I started as a Statistic bachelor, but shifted fully towards full stack development
 
 <!---
